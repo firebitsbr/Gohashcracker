@@ -5,7 +5,9 @@ How to install:
 
 1) git clone https://github.com/r1me75/Gohashcracker.git
 2) cd Gohashcracker
-3) go run Gohashcracker
+3) chmod +x setup.sh
+4) ./setup.sh
+5) go run Gohashcracker
 
 If you don't have GO, you can install it here -> https://golang.org/dl/
 
