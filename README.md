@@ -1,5 +1,5 @@
 # Hashcracker - written in GO
-A GO script to generate and (fast) brute force MD5/SHA1/SHA256 hashes.
+A GO script to (fast) brute force and generate MD5/SHA1/SHA256 hashes.
 
 How to install:
 
