@@ -1,1 +1,1 @@
-# Gohashcracker
+# Hashcracker - written in GO
